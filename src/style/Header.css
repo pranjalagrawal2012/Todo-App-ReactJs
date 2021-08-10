@@ -1,0 +1,10 @@
+.appbar{
+    position: sticky;
+    top: 0;
+    background-color:  rgb(22, 163, 183) !important;
+    flex-grow: 1;
+    
+}
+.appbartitle{
+    flex-grow: 1;
+}
